@@ -1,45 +1,6 @@
-.navbar {
-  background-color: #3d0a0a;
-  display: flex;
-  justify-content: center;
-}
 
-.navbar nav {
-  display: flex;
-}
-
-.navbar nav ul {
-  list-style-type: none;
+* {
   margin: 0;
   padding: 0;
-  display: flex;
-  font-family: sans-serif;
-  justify-content: center;
-}
-
-.navbar nav ul li {
-  margin: 0 10px;
-}
-
-.navbar nav ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 30px;
-}
-
-
-.page-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* Set to 100% of viewport height */
-  font-size: 30px;
-  font-family: sans-serif;
-}
-
-.content {
-  text-align: center;
+  box-sizing: border-box;
 }
