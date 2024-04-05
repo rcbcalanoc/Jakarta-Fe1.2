@@ -25,7 +25,7 @@ function App() {
         {/* Using the Routes and Route components from react-router-dom */}
         <Routes>
           <Route path="/" element={<Template />}>
-            <Route path="/surname1" element={<Calanoc />} />
+            <Route path="/calanoc" element={<Calanoc />} />
             <Route path="/surname2" element={<Page2 />} />
             <Route path="/surname3" element={<Page3 />} />
             <Route path="/surname4" element={<Page4 />} />

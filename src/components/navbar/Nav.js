@@ -12,7 +12,7 @@ function Nav() {
             <div className="left">
                 <ul>
                 <li>
-                    <Link to="/surname1" className="link">Member #1</Link>
+                    <Link to="/calanoc" className="link">Member #1</Link>
                     </li>
                     <li>
                     <Link to="/surname2" className="link">Member #2</Link>
