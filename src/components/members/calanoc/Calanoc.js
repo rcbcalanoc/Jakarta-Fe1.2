@@ -1,7 +1,7 @@
 import React from 'react'
-import "./page1styles.css"
+import "./calanocstyles.css"
 
-function Page1() {
+function Calanoc() {
   return (
     <div className="content">
       Richard Carlos B. Calanoc SN:2021107332
@@ -9,4 +9,4 @@ function Page1() {
   );
 }
 
-export default Page1;
+export default Calanoc;
