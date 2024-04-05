@@ -15,7 +15,7 @@ function Nav() {
                     <Link to="/calanoc" className="link">Member #1</Link>
                     </li>
                     <li>
-                    <Link to="/surname2" className="link">Member #2</Link>
+                    <Link to="/delapena" className="link">Member #2</Link>
                     </li>
                     <li>
                     <Link to="/surname3" className="link">Member #3</Link>
