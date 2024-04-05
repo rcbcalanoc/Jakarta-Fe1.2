@@ -6,7 +6,7 @@ import Template from "./components/Template";
 import Nav from "./components/navbar/Nav";
 import Calanoc from "./components/members/calanoc/Calanoc";
 import DelaPena from "./components/members/delapena/DelaPena";
-import Page3 from "./components/members/surname3/Page3";
+import Seballos from "./components/members/seballos/Seballos";
 import Page4 from "./components/members/surname4/Page4";
 import Page5 from "./components/members/surname5/Page5";
 import Vallesteros from "./components/members/vallesteros/Vallesteros";
@@ -28,7 +28,7 @@ function App() {
           <Route path="/" element={<Template />}>
             <Route path="/calanoc" element={<Calanoc />} />
             <Route path="/delapena" element={<DelaPena />} />
-            <Route path="/surname3" element={<Page3 />} />
+            <Route path="/seballos" element={<Seballos />} />
             <Route path="/surname4" element={<Page4 />} />
             <Route path="/surname5" element={<Page5 />} />
             <Route path="/vallesteros" element={<Vallesteros />} />
