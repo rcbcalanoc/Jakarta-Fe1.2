@@ -24,7 +24,7 @@ function Nav() {
                     <Link to="/magbanua" className="link">Member #4</Link>
                     </li>
                     <li> 
-                     <Link to="/surname5" className="link">Member #5</Link>
+                     <Link to="/sy" className="link">Member #5</Link>
                     </li>
                     <li>
                     <Link to="/vallesteros" className="link">Member #6</Link>

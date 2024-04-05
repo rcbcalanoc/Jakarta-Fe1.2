@@ -8,7 +8,7 @@ import Calanoc from "./components/members/calanoc/Calanoc";
 import DelaPena from "./components/members/delapena/DelaPena";
 import Seballos from "./components/members/seballos/Seballos";
 import Magbanua from "./components/members/magbanua/Magbanua";
-import Page5 from "./components/members/surname5/Page5";
+import Sy from "./components/members/sy/Sy";
 import Vallesteros from "./components/members/vallesteros/Vallesteros";
 
 import './App.css';
@@ -30,7 +30,7 @@ function App() {
             <Route path="/delapena" element={<DelaPena />} />
             <Route path="/seballos" element={<Seballos />} />
             <Route path="/magbanua" element={<Magbanua />} />
-            <Route path="/surname5" element={<Page5 />} />
+            <Route path="/sy" element={<Sy />} />
             <Route path="/vallesteros" element={<Vallesteros />} />
           </Route>
         </Routes>
